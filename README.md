@@ -33,7 +33,7 @@ A brain-inspired transformer pipeline for mapping natural language commands to c
 
 1. **Clone this repository**
     ```bash
-    git clone https://github.com/YOURUSERNAME/leonet_robotics.git
+    git clone https://github.com/shilpesh619/leonet_robotics.git
     cd leonet_robotics
     ```
 
