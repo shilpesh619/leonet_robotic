@@ -24,7 +24,7 @@ A brain-inspired transformer pipeline for mapping natural language commands to c
 | `trainer.py`                   | Script to train LeoNet on the dataset                    |
 | `leonet_fullrange_dataset.jsonl`| Example dataset with full-range joint positions          |
 | `fullrange_inference.py`       | Inference/demo script—type a command, watch the robot!   |
-| `README.md`                    | This file (edit to fit your needs)                       |
+| `README.md`                    | This file                        |
 | `requirements.txt`             | Python dependencies                                      |
 
 ---
